@@ -1,0 +1,21 @@
+# Ignore build directories
+target/
+build/
+
+# IDE directories
+.idea/
+.vscode/
+.settings/
+
+# Eclipse configuration files
+.classpath
+.project
+
+# IntelliJ IDEA configuration files
+.iml
+
+# Operating System specific files
+.DS_Store
+
+# Log files
+*.log
